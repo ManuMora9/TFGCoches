@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TFGCoches</string>
+    <string name="tvUser">Usuario: </string>
+    <string name="tvContra">Contraseña: </string>
+    <string name="logInButton">Entrar</string>
+    <string name="logOutButton">Cerrar Sesion</string>
+    <string name="volver">Volver</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="welcome">Bienvenido,</string>
+
+    <string name="addVehicle">Añadir Vehículo</string>
+    <string name="updateVehicle">Modificar Vehículo</string>
+    <string name="deleteVehicle">Borrar Vehículo</string>
+    <string name="admin">Administración</string>
+    <string name="infoUser">Mi información</string>
+
+    <string name="consultar">Consultar vehículos</string>
+    <string name="acerca">Acerca de</string>
+    <string name="informacion">Con nuestra aplicación, podrás acceder a una base de datos de vehículos disponibles para el rodaje de películas,
+    con toda la información sobre ellos, desde modelo, matrícula, hasta color y combustible, además de un enlace a la página oficial del vehículo.
+    \n Una vez encuentres el vehículo que tu productora necesita, simplemente tendrás que llamar a nuestra empresa para acordar las fechas de reserva.
+    \n Ten en cuenta que el precio incluye el seguro y es válido para todo el rodaje. Si el coche va a resultar dañado o destruido, caso para películas
+    de acción, deberás informar previamente a la empresa.</string>
+    <string name="visitar">Visitar web</string>
+    <string name="DNI">DNI</string>
+    <string name="user">Nombre Usuario</string>
+    <string name="productora">Productora Asociada</string>
+    <string name="direccionF">Direccion Fiscal</string>
+    <string name="borrarUser">Borrar Usuario</string>
+    <string name="msgBorrarUser">¿Estás seguro de borrar tu cuenta?</string>
+    <string name="registrar">Registrar Usuario</string>
+    <string name="repertirContra">Rep. contraseña</string>
+    <string name="error">Enlace no válido</string>
+
+    <string name="matricula">Matrícula</string>
+    <string name="vehiculo">Vehículo</string>
+    <string name="kilometros">Kilómetros</string>
+    <string name="detalles">Detalles</string>
+    <string name="combustible">Combustible</string>
+    <string name="precio">Precio</string>
+    <string name="tipo">Tipo</string>
+    <string name="enlace">Enlace</string>
+    <string name="buscar">Buscar</string>
+
+    <string name="tituloBorrarMsg">¿Estás seguro de borrar los datos?</string>
+    <string name="tituloModiMsg">¿Estás seguro de modificar el vehículo?</string>
+
+</resources>
