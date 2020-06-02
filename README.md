@@ -1,3 +1,7 @@
+USUARIOS Y CONTRASEÑAS DE LA APLICACIÓN:
+Usuario administrador: admin y admin
+Usuario normal: Manu y contraseña
+
 TUTORIAL DE LA APLICACIÓN
 
 En primer lugar, los usuarios pueden registrarse accediendo al menú de registrar usuario desde la pantalla principal. En esta
